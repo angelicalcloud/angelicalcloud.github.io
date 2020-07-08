@@ -83,6 +83,8 @@ tr, table, td{
 	z-index: 3;
 	width: 50px;
 	height: 45px;
+        background-color: rgba(120, 3, 114, 0.9);
+	
 }
 .dropdown{
 	float: right;
